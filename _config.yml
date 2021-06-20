@@ -32,6 +32,7 @@ social:
   email: securebitlabs0@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://securebitlabs.com        # change to your twitter homepage
     - https://twitter.com/x90ajay      # change to your twitter homepage
     - https://github.com/Ajaytekam       # change to your github homepage
     - https://www.linkedin.com/in/ajaytekam
