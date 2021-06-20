@@ -88,7 +88,7 @@ theme_mode: dark # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://raw.githubusercontent.com/securebitlabs/securebitlabs.github.io/main/img/favicon.png
+avatar: https://raw.githubusercontent.com/Ajaytekam/ajaytekam.github.io/master/assets/img/favicons/hacker.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
